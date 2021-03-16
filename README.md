@@ -13,9 +13,10 @@ How to Run
 
 •	index.html
 
-•	mapanimation.js
+•	eyes.js
 
 •	styles.css
+
 
 2.	Open index.html in your browser.
 
