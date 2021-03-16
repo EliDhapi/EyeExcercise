@@ -1,9 +1,11 @@
 # Eye Excercise
 
 Project Title
+
 Eye Exercise 
 
 Project Description
+
 This project uses javascript, CSS, HTML and is a web page with two eyes that follow your mouse movement. As you hover your mouse over the screen the two ball elements inside the oval elements follow the mouse cursor, mimicking the effect of being followed by a person's eyes.
 
 How to Run
