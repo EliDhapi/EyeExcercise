@@ -19,7 +19,7 @@ This project uses javascript, CSS, HTML and is a web page with two eyes that fol
 <h2>Roadmap of future improvements</h2>
 </ul>
  <li>Adding more than two eyes
- <li>The eyes could be made to move in opposite directions, and once they touch the end of the screen, they can rotate
+ <li>The eyes could be made to move in opposite directions
  </ul>
 
 <h2>License</h2>
