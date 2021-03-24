@@ -7,7 +7,7 @@ This project uses javascript, CSS, HTML and is a web page with two eyes that fol
 <h2>How to Run</h2>
 (1) Download the following 3 files from this repository into a directory on your local machine: 
 <ul>
-  <li>mapanimation.js</li>
+  <li>eyes.js</li>
   <li>styles.css</li>
   <li>index.html</li>
 </ul>
