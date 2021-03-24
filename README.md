@@ -12,6 +12,7 @@ This project uses javascript, CSS, HTML and is a web page with two eyes that fol
   <li>index.html</li>
 </ul>
 (2) Open index.html in your browser.
+
 (3) Move your mouse around the browser window.
 
 
